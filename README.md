@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 name: Timerlan Medov
 located_in: Moscow, RU
 from: Moscow, RU
-education: ["Bachelor's in Marketing", "Google UX Design (Foundation of User Experience Design)", "Hexlet courses"]
+education: ["Bachelor's degree in Marketing in PRUE", "Google UX Design (Foundation of User Experience Design)", "Hexlet courses"]
 languages: ["Russian", "English", "French"]
 past experiences: 
   - ["UX/UI designer", "Real Electro", "Russia", "2020-2022"]
