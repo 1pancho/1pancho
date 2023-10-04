@@ -34,14 +34,11 @@ You can click the Preview link to take a look at your changes.
 name: Timerlan Medov
 located_in: Moscow, RU
 from: Moscow, RU
-education: ["Bachelor's degree in Marketing in PRUE", "Google UX Design (Foundation of User Experience Design)", "Hexlet frontend course"]
+education: ["Bachelor's degree in Marketing in PRUE",
+            "Google UX Design",
+            "Hexlet frontend developer"]
 languages: ["Russian", "English", "French"]
-past experience: 
-  - ["UX/UI designer", "Real Electro", "Russia", "2020-2022"]
-  - ["UX/UI designer", "Freelance", "2018-2020"]
-
-fields_of_interests: ["Web3", "Psychology", "Behavioural Planning", 
-                      "Philosophy"]
+fields_of_interests: ["Web3", "Psychology", "Behavioural Planning", "Philosophy"]
 technical_background: ["Marketing and competitive analysis", "Optimization and performance", 
                        "Responsive Design", "Agile Team Experience"]
 currently_learning: ["Web3", "React"]
