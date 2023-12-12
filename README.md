@@ -36,7 +36,7 @@ located_in: Moscow, RU
 from: Moscow, RU
 education: ["Bachelor's degree in Marketing in PRUE",
             "Google UX Design",
-            "Hexlet frontend developer"]
+            "Hexlet Frontend Developer Program"]
 languages: ["Russian", "English", "French"]
 fields_of_interests: ["Web3", "Psychology", "Behavioural Planning", "Philosophy"]
 technical_background: ["Marketing and competitive analysis", "Optimization and performance", 
@@ -47,7 +47,7 @@ hobbies: ["Tennis", "Walking", "Travelling", "Gym", "Reading"]
 ```
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### &#x1F6E0; Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
