@@ -23,9 +23,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.instagram.com/panchomedov/">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://ru.hexlet.io/u/pancho">
-    <img src="https://img.shields.io/badge/Hexlet-black?style=for-the-badge&logo=Hexlet&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 </div>
 <br/>
@@ -35,8 +32,7 @@ name: Timerlan Medov
 located_in: Moscow, RU
 from: Moscow, RU
 education: ["Bachelor's degree in Marketing in PRUE",
-            "Google UX Design",
-            "Hexlet Frontend Developer Program"]
+            "Google UX Design"]
 languages: ["Russian", "English", "French"]
 fields_of_interests: ["Web3", "Psychology", "Behavioural Planning", "Philosophy"]
 technical_background: ["Marketing and competitive analysis", "Optimization and performance", 
